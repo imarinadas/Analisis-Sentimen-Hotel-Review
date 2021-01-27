@@ -1,7 +1,7 @@
 # Sentiment-Analysis-Hotel-Reviews-Tripadvisor
 
 Data Science kelas F
-Praktikum Data Science kelas B
+Praktikum Data Science plug B
 
 Disusun oleh:
 123180126 - Nada Salsabila Imari
